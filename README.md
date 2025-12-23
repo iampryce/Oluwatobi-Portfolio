@@ -37,7 +37,7 @@ Although, I am studying Public Administration, my primary interest lies in Infor
  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
  <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?&style=for-the-badge&logo=amazons3&logoColor=white" />
  <img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?&style=for-the-badge&logo=amazonec2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Amazon%20CloudWatch-FF4F8B?&style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-AWS%20IAM-DD344C?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 
