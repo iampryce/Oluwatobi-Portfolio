@@ -20,7 +20,6 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         |       SOC Automation Lab   |
 | AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1  | <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-"> AWS-Organization</a> |
-
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -73,6 +72,6 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 ## Projects
 - <a href="https://github.com/iampryce/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
-- <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-">Detection Lab</a>
+- <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-">AWS-Organization</a>
 
 
