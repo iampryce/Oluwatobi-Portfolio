@@ -32,6 +32,7 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 | AWS-Cloud-Security-Detection-Engineering-Platform |<a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a> |
 | Security Automation with Shuffle SOAR         |       SOC Automation Lab   |
 | AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1  | <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-"> AWS-Organization</a> |
+|AWS-Automated-Incident-Response-SOAR           |  <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>|   
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -86,6 +87,6 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 - <a href="https://github.com/iampryce/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 - <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-">AWS-Organization</a>
-
+- <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>
 - <a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a>
 
