@@ -29,13 +29,12 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/iampryce/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| AWS-Cloud-Security-Detection-Engineering-Platform |<a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a> |
-| Security Automation with Shuffle SOAR         |       SOC Automation Lab   |
+| AWS-Cloud-Security-Detection-Engineering-Platform |<a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a> |     
 | AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1  | <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-"> AWS-Organization</a> |
 |AWS-Automated-Incident-Response-SOAR           |  <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>|   
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+
 
 ## Tools
 
@@ -43,8 +42,8 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    
+    
 </div>
 
 ### Cloud
