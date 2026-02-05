@@ -28,7 +28,8 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/iampryce/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| AWS-Cloud-Security-Detection-Engineering-Platform |<a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a> |     
+| AWS-Cloud-Security-Detection-Engineering-Platform |<a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a> |  
+|Azure Company Environment Setup     |   <a href="https://github.com/iampryce/Azure-Cloud-Setup-IAM-Implementation"> Azure Cloud Organization Hierachy Setup  </a>   |   
 | AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1  | <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-"> AWS-Organization</a> |
 |AWS-Automated-Incident-Response-SOAR           |  <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>|   
 |Hosting a Static-Website in Virtual Machine Azure  | <a href="https://github.com/iampryce/Hosting-a-Static-Website-in-Virtual-Machine-Azure">Hosting a Static Website  </a> |
@@ -83,5 +84,6 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 - <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-">AWS-Organization</a>
 - <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>
 - <a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a>
-- <a href="https://github.com/iampryce/Hosting-a-Static-Website-in-Virtual-Machine-Azure">Hosting a Static Website
+- <a href="https://github.com/iampryce/Hosting-a-Static-Website-in-Virtual-Machine-Azure">Hosting a Static Website </a>
+-  <a href="https://github.com/iampryce/Azure-Cloud-Setup-IAM-Implementation"> Azure Cloud Organization Hierachy Setup </a>   
 
