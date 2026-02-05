@@ -15,7 +15,6 @@
 
 
 
-I am a student with a strong interest in technology and cybersecurity, with a passion for solving complex security problems.
 
 ## Objective
 
@@ -32,6 +31,7 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 | AWS-Cloud-Security-Detection-Engineering-Platform |<a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a> |     
 | AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1  | <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-"> AWS-Organization</a> |
 |AWS-Automated-Incident-Response-SOAR           |  <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>|   
+|Hosting a Static-Website in Virtual Machine Azure  | <a href="https://github.com/iampryce/Hosting-a-Static-Website-in-Virtual-Machine-Azure">Hosting a Static Website  </a> |
 
 
 
@@ -49,10 +49,10 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 ### Cloud
 <div>
  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
- <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?&style=for-the-badge&logo=amazons3&logoColor=white" />
- <img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?&style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-AWS%20IAM-DD344C?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+
 
 
 
@@ -80,8 +80,8 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 
 ## Projects
 - <a href="https://github.com/iampryce/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
 - <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-">AWS-Organization</a>
 - <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>
 - <a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a>
+- <a href="https://github.com/iampryce/Hosting-a-Static-Website-in-Virtual-Machine-Azure">Hosting a Static Website
 
