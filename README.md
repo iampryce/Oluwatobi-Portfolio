@@ -1,4 +1,6 @@
-<p align="center">
+<p align="center" style="border-radius:15px;">
+
+ <img src="https://github.com/user-attachments/assets/e75837e1-e700-46a8-a60c-9d644f66b03f" width="150">
 
 
 
@@ -16,25 +18,93 @@
 
 
 
-## Objective
+## About
 
-Cloud and DevOps Engineer with a strong security operations background and a passion for teaching and continuous improvement. I design, automate, and maintain scalable cloud infrastructures while applying SOC best practices to ensure systems are secure, resilient, and observable.
-I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, CloudFormation) to provision environments and CI/CD tools such as GitHub Actions, Jenkins, and AWS CodePipeline to automate deployments. With hands-on experience in Docker, Kubernetes, log monitoring, alerting, and incident response, I integrate security into cloud workflows—bridging DevOps and SOC to deliver reliable, security-first solutions.
+Economics student transitioning into Cloud and DevOps Engineering with a strong foundation in security operations. I focus on designing, automating, and maintaining scalable cloud infrastructure while applying security best practices to ensure reliability, resilience, and observability.
 
-## Skills
+I work across AWS, Azure, and GCP, using Infrastructure as Code (Terraform, CloudFormation) to provision cloud environments and CI/CD pipelines (GitHub Actions, Jenkins, AWS CodePipeline) to automate consistent, production-ready deployments. With hands-on experience in Docker, Kubernetes, log monitoring, alerting, and incident response, I build secure and efficient systems that align development and operations.
 
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/iampryce/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| AWS-Cloud-Security-Detection-Engineering-Platform |<a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a> |  
-|Azure Company Environment Setup     |   <a href="https://github.com/iampryce/Azure-Cloud-Setup-IAM-Implementation"> Azure Cloud Organization Hierachy Setup  </a>   |   
-| AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1  | <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-"> AWS-Organization</a> |
-|AWS-Automated-Incident-Response-SOAR           |  <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>|   
-|Hosting a Static-Website in Virtual Machine Azure  | <a href="https://github.com/iampryce/Hosting-a-Static-Website-in-Virtual-Machine-Azure">Hosting a Static Website  </a> |
+My background in economics strengthens my analytical thinking, structured problem-solving, and risk-based decision making skills I now apply to cloud architecture, automation, and infrastructure optimization.
 
 
+## Projects
+
+ <div>
+<h2>
+     <a href="https://github.com/iampryce/SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Sevrver">SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server</a>
+</h2>
+
+This project demonstrates how to harden SSH access on an Amazon EC2 Ubuntu server by changing the default SSH port and updating security group rules accordingly. It also integrates Datadog for centralized log collection and monitoring.
+    
+    
+</div>
+
+-------------------------------------------------
+ <div>
+<h2>
+     <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-">AWS-Organization</a>
+</h2>
+
+Designed and implemented an AWS Organization for a company managing three AWS accounts. Configured IAM users, groups, and policies using role-based access control to enforce least privilege, improve security, and support multi-account governance.
+    
+</div>
+
+
+-------------------------------------------------
+ <div>
+<h2>
+    <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>
+</h2>
+
+This project extends cloud security detection into automated response using AWS native services. It demonstrates how SOC teams reduce mean time to respond (MTTR) by integrating detection, automation, and notification in a secure and cost-aware manner.
+    
+</div>
+
+
+-------------------------------------------------
+ <div>
+<h2>
+    
+ <a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a>
+</h2>
+
+This project demonstrates how to design and implement a cloud-native security detection platform in AWS using native services such as CloudTrail, CloudWatch, GuardDuty, Lambda, and SNS. The goal is to collect security telemetry, detect suspicious activity, and generate actionable alerts similar to a real SOC environment
+
+    
+</div>
+
+
+-------------------------------------------------
+ <div>
+<h2>
+    
+<a href="https://github.com/iampryce/Hosting-a-Static-Website-in-Virtual-Machine-Azure">Hosting a Static Website </a>
+</h2>
+
+This project demonstrates how to host a static website using a Virtual Machine (VM) in Microsoft Azure. An Azure VM is created and configured with a Nginx web server to serve static HTML, CSS, and JavaScript files.
+    
+</div>
+
+
+
+-------------------------------------------------
+ <div>
+<h2>
+    
+ <a href="https://github.com/iampryce/Azure-Cloud-Setup-IAM-Implementation"> Azure Cloud Organization Hierachy Setup </a>
+</h2>
+
+This project documents the setup of an Azure environment for a company, including domain integration, identity management, access control, and organizational hierarchy.
+</div>
+
+
+
+
+  
+
+
+ 
+ 
 
 
 ## Tools
@@ -79,11 +149,9 @@ I work across AWS, Azure, and GCP, using infrastructure as code (Terraform, Clou
 
 </div>
 
-## Projects
-- <a href="https://github.com/iampryce/Detection-Lab/tree/main">Detection Lab</a>
-- <a href="https://github.com/iampryce/AWS-Organization-Setup-and-IAM-Role-Based-Access-Control-Project-1-">AWS-Organization</a>
-- <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>
-- <a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a>
-- <a href="https://github.com/iampryce/Hosting-a-Static-Website-in-Virtual-Machine-Azure">Hosting a Static Website </a>
--  <a href="https://github.com/iampryce/Azure-Cloud-Setup-IAM-Implementation"> Azure Cloud Organization Hierachy Setup </a>   
+
+
+
+
+
 
