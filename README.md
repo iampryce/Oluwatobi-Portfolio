@@ -27,7 +27,7 @@ I work across AWS, Azure, and GCP, using Infrastructure as Code (Terraform, Clou
 My background in economics strengthens my analytical thinking, structured problem-solving, and risk-based decision making skills I now apply to cloud architecture, automation, and infrastructure optimization.
 
 
-## Projects
+# Projects
 
  <div>
 <h2>
