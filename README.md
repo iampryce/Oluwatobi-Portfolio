@@ -107,40 +107,43 @@ This project documents the setup of an Azure environment for a company, includin
  
 
 
-## Tools
+## Tools & Skills
+
+## Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    
-    
-</div>
+##  Infrastructure as Code (IaC)
 
-### Cloud
-<div>
- <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-
-
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 
+##  CI/CD & Automation
 
-</div>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+##  Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+##  Security & Monitoring
+
+![Security Operations](https://img.shields.io/badge/Security_Operations-0A0A0A?style=for-the-badge&logo=probot&logoColor=white)
+![Log Monitoring](https://img.shields.io/badge/Log_Monitoring-4B5563?style=for-the-badge&logo=datadog&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-DC2626?style=for-the-badge&logo=opsgenie&logoColor=white)
+![Observability](https://img.shields.io/badge/Observability-9333EA?style=for-the-badge&logo=prometheus&logoColor=white)
+
+
 
 ## Certifications
 
