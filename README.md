@@ -24,7 +24,7 @@ Economics student transitioning into Cloud and DevOps Engineering with a strong 
 
 I work across AWS, Azure, and GCP, using Infrastructure as Code (Terraform, CloudFormation) to provision cloud environments and CI/CD pipelines (GitHub Actions, Jenkins, AWS CodePipeline) to automate consistent, production-ready deployments. With hands-on experience in Docker, Kubernetes, log monitoring, alerting, and incident response, I build secure and efficient systems that align development and operations.
 
-My background in economics strengthens my analytical thinking, structured problem-solving, and risk-based decision making skills I now apply to cloud architecture, automation, and infrastructure optimization.
+
 
 
 # Projects
