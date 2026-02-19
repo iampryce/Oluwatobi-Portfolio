@@ -98,12 +98,19 @@ This project documents the setup of an Azure environment for a company, includin
 </div>
 
 
+-------------------------------------------------
+ <div>
+<h2>
+    
+ <a href="https://github.com/iampryce/Migrating-Static-Website-from-Azure-to-AWS-using-S3-CloudFront-Route-53"> Migrating Static Website from Azure to AWS using-S3 CloudFront Route53 </a>
+</h2>
+
+ This project involves migrating a static website from Microsoft Azure to AWS in order to leverage a highly scalable, cost-effective, and globally distributed hosting architecture.
 
 
-  
+</div>
 
 
- 
  
 
 
