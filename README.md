@@ -31,7 +31,7 @@ I work across AWS, Azure, and GCP, using Infrastructure as Code (Terraform, Clou
 
  <div>
 <h2>
-     <a href="https://github.com/iampryce/SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Sevrver">SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server</a>
+     <a href="https://github.com/iampryce/SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server">SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server</a>
 </h2>
 
 This project demonstrates how to harden SSH access on an Amazon EC2 Ubuntu server by changing the default SSH port and updating security group rules accordingly. It also integrates Datadog for centralized log collection and monitoring.
