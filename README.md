@@ -60,6 +60,20 @@ This project extends cloud security detection into automated response using AWS 
     
 </div>
 
+-------------------------------------------------
+ <div>
+<h2>
+    
+ <a href="https://github.com/iampryce/Task-App">TASK-APP</a>
+</h2>
+
+This project demonstrate how i implement DevOps and Cloud Enginner workflows starting from basic to advance tool. This project is set to take about 12 weeks. Each week contains new tools and updates on chanhes to improve the workflow to show real DevOps Work flow.
+
+    
+</div>
+
+
+
 
 -------------------------------------------------
  <div>
