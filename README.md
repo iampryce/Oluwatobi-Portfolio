@@ -31,7 +31,7 @@ I work across AWS, Azure, and GCP, using Infrastructure as Code (Terraform, Clou
 
  <div>
 <h2>
-     <a href="https://github.com/iampryce/SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server">SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server</a>
+     <a href="https://github.com/iampryce/SSH-Port-Hardening-and-Datadog-Logging-on-EC2-Server">SSH Port Hardening and Datadog Logging on EC2 Server</a>
 </h2>
 
 This project demonstrates how to harden SSH access on an Amazon EC2 Ubuntu server by changing the default SSH port and updating security group rules accordingly. It also integrates Datadog for centralized log collection and monitoring.
@@ -53,7 +53,20 @@ Designed and implemented an AWS Organization for a company managing three AWS ac
 -------------------------------------------------
  <div>
 <h2>
-    <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS-Automated-Incident-Response-SOAR </a>
+    
+ <a href="https://github.com/iampryce/Production-Grade-Serverless-Web-Architecture-with-CI-CD-Integration">Production Grade Serverless Web Architecture with CI-CD Integration</a>
+</h2>
+
+This project involves migrating a static website from Microsoft Azure to AWS in order to leverage a highly scalable, cost-effective, and globally distributed hosting architecture.
+This project was initially a static website served from an S3 bucket but it was then upgrded with the inetegration of contact form with email notification and also  Full CI/CD Integration using GitHub Action,   Api gateway, AWS Lambda to carry out tasks.
+
+
+</div>
+
+-------------------------------------------------
+ <div>
+<h2>
+    <a href="https://github.com/iampryce/AWS-Automated-Incident-Response-SOAR">AWS Automated Incident Response SOAR </a>
 </h2>
 
 This project extends cloud security detection into automated response using AWS native services. It demonstrates how SOC teams reduce mean time to respond (MTTR) by integrating detection, automation, and notification in a secure and cost-aware manner.
@@ -79,7 +92,7 @@ This project demonstrate how i implement DevOps and Cloud Enginner workflows sta
  <div>
 <h2>
     
- <a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS-Cloud-Security-Detection-Engineering-Platform</a>
+ <a href="https://github.com/iampryce/AWS-Cloud-Security-Detection-Engineering-Platform">AWS Cloud Security Detection Engineering Platform</a>
 </h2>
 
 This project demonstrates how to design and implement a cloud-native security detection platform in AWS using native services such as CloudTrail, CloudWatch, GuardDuty, Lambda, and SNS. The goal is to collect security telemetry, detect suspicious activity, and generate actionable alerts similar to a real SOC environment
@@ -112,17 +125,7 @@ This project documents the setup of an Azure environment for a company, includin
 </div>
 
 
--------------------------------------------------
- <div>
-<h2>
-    
- <a href="https://github.com/iampryce/Migrating-Static-Website-from-Azure-to-AWS-using-S3-CloudFront-Route-53"> Migrating Static Website from Azure to AWS using-S3 CloudFront Route53 </a>
-</h2>
 
- This project involves migrating a static website from Microsoft Azure to AWS in order to leverage a highly scalable, cost-effective, and globally distributed hosting architecture.
-
-
-</div>
 
 
  
