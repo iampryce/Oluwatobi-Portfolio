@@ -1,6 +1,6 @@
 <p align="center" style="border-radius:15px;">
 
- <img src="https://github.com/user-attachments/assets/e75837e1-e700-46a8-a60c-9d644f66b03f" width="50">
+ <img src="https://github.com/user-attachments/assets/e75837e1-e700-46a8-a60c-9d644f66b03f" width="70">
 
 
 
@@ -51,6 +51,23 @@ Designed and implemented an AWS Organization for a company managing three AWS ac
 
 
 -------------------------------------------------
+
+
+
+ <div>
+<h2>
+ <a href="https://github.com/iampryce/Serverless-AI-Quote-Generator-on-AWS-Iac-">Serverless AI Quote Generator on AWS(Terrafrom)</a>
+   
+</h2>
+
+This is a production-grade serverless web application deployed entirely on AWS. Users visits the website, type a topic and receive an AI-generated quote tailored to that topic. The entire infrastructure is provisioned automatically using Terraform and deployed via a GitHub Actions CI/CD pipeline.
+    
+</div>
+
+
+-------------------------------------------------
+
+
  <div>
 <h2>
     
