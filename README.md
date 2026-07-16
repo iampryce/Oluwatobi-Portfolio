@@ -245,11 +245,7 @@ Python, Bash, PowerShell, Linux
 ---
 
 ## Certifications
-
-![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-![CKA](https://img.shields.io/badge/CKA-In%20Progress-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/Terraform-Associate%20\(In%20Progress\)-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA-In%20Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
